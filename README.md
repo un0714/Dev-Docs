@@ -3,8 +3,7 @@
 ## Table of Contents
 * [Experience](https://github.com/un0714/Dev-Docs/tree/main?tab=readme-ov-file#experience)
 * [Tech Stack](https://github.com/un0714/Dev-Docs/tree/main?tab=readme-ov-file#tech-stack)
-* [My-Projects](https://github.com/un0714/Dev-Docs/tree/main/My-Projects#readme)
-* [Study](https://github.com/un0714/Dev-Docs/tree/main/Study-Docs)
+* [Projects](https://github.com/un0714/Dev-Docs/tree/main/Projects#readme)
 
 ## [Profile](https://github.com/un0714/Dev-Docs/blob/main/Profile.md)
 #### 이상운 | 1995-07-14 <br/>
