@@ -79,9 +79,84 @@
 
 ## **🔗 링크**
 
-**링크:** [https://www.arirang.com](https://www.arirang.com) (홈페이지)
+**링크:** [http://leesangwoon.dothome.co.kr/sindorim ](http://leesangwoon.dothome.co.kr/sindorim) (해당 페이지 현재 서비스 종료)
+
+<br />
+
+## **👨🏻‍💻 구현 이미지**
+
+<br/>
+<br/>
+
+## **📝 3. 포트폴리오 개요**
+
+<img width="100%" alt="메인 페이지" src="https://user-images.githubusercontent.com/51189962/136147406-e80d9f8a-49b9-42bc-aa3a-301fff182608.png" />
+
+> **프로젝트:** 라운드 페스티벌 (roundfestival)
+>
+> **담당업무 : 웹 퍼블리싱
+>
+> **작업인원 : 1명
+>
+> **기여도 : 100% (퍼블리싱)
+>
+> **제작 기간:** 2021.02.03 ~ 2022.02.11
+>
+> **사용 기술:**  HTML, Scss, Javascript, JQuery 등
+
+<br />
+
+## **🛠 기술 및 도구**
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
+
+<br />
+
+## **🔗 링크**
+
+**링크:** [https://roundfestival.net]( https://roundfestival.net) (리뉴얼 이전 페이지)
 </br>
-**링크:** [https://company.arirang.com](https://company.arirang.com) (CMS)
+**링크:** [https://company.arirang.com](https://company.arirang.com) (라운드페스티벌)
+
+<br />
+
+## **👨🏻‍💻 구현 이미지**
+
+<br/>
+<br/>
+
+## **📝 4. 포트폴리오 개요**
+
+<img width="100%" alt="메인 페이지" src="https://user-images.githubusercontent.com/51189962/136147406-e80d9f8a-49b9-42bc-aa3a-301fff182608.png" />
+
+> **프로젝트:** 앨리스타로 (alicetarot)
+>
+> **담당업무 : 웹 퍼블리싱
+>
+> **작업인원 : 1명
+>
+> **기여도 : 100% (퍼블리싱)
+>
+> **제작 기간:** 2021.04.01 ~ 2022.04.15
+>
+> **사용 기술:**  HTML, Scss, Javascript 등
+
+<br />
+
+## **🛠 기술 및 도구**
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<br />
+
+## **🔗 링크**
+
+**링크:** [https://roundfestival.net]( https://roundfestival.net) (해당 페이지 현재 서비스 종료)
 
 <br />
 
