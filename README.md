@@ -44,8 +44,8 @@ Skill | Note
 ![React](https://img.shields.io/badge/React-53C1DE?style=flat-square&logo=react&logoColor=white) | ES6문법을 숙지하고 있으며, Hooks 및 Component 구조를 이해하고 활용할 수 있습니다.
 ![Styled-Components](https://img.shields.io/badge/Styled_Components-DB7C85?style=flat-square&logo=styled-components&logoColor=white) | 
 ![Mui](https://img.shields.io/badge/Mui-007FFF.svg?style=flat-square&logo=mui&logoColor=white) | 
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=black"/> | 웹디자인 및 간단한 아이콘, 사진 편집 등이 가능합니다.
-<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=black"/> | 툴을 이용하여 작업자간의 소통이 가능합니다.
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=black) | 웹디자인 및 간단한 아이콘, 사진 편집 등이 가능합니다.
+![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white) | 툴을 이용하여 작업자간의 소통이 가능합니다.
 
 <br />
 
