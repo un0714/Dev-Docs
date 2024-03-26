@@ -40,7 +40,7 @@ Skill | Note
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> | CSS요소를 활용하여 적응형 웹, 반응형 웹을 구현할 수 있습니다.
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | jQuery문법과 혼합하여 페이지를 더 동적으로 만들수 있습니다. 또한 자바스크립트를 활용한 탭바, 슬라이드, 팝업, 정규식 표현 등의 항목도 구현할 수 있습니다.
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white) | jQuery 라이브러리를 이용하여 gnb, 탭바, 영상 재생 등에 관한 항목을 구현할 수 있으며, 각종 이벤트를 활용하여 동적으로 화면을 제작할 수 있습니다.
-![Vue.js](https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | component 구조를 이해하고 커스텀할 수 있습니다.
 ![React](https://img.shields.io/badge/React-53C1DE?style=flat-square&logo=react&logoColor=white) | ES6문법을 숙지하고 있으며, Hooks 및 Component 구조를 이해하고 활용할 수 있습니다.
 ![Styled-Components](https://img.shields.io/badge/Styled_Components-DB7C85?style=flat-square&logo=styled-components&logoColor=white) | 
 ![Mui](https://img.shields.io/badge/Mui-007FFF.svg?style=flat-square&logo=mui&logoColor=white) | 
