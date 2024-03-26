@@ -164,3 +164,78 @@
 
 <br/>
 <br/>
+
+## **📝 5. 포트폴리오 개요**
+
+<img width="100%" alt="메인 페이지" src="https://user-images.githubusercontent.com/51189962/136147406-e80d9f8a-49b9-42bc-aa3a-301fff182608.png" />
+
+> **프로젝트:** 카카오브레인 관리자페이지 구축 및 유지보수
+>
+> **담당업무 : 웹 퍼블리싱
+>
+> **작업인원 : 3명
+>
+> **기여도 : 33% (퍼블리싱)
+>
+> **제작 기간:** 2022.12.19 ~ 2023.09.27
+>
+> **사용 기술:**  Vue3, Scss, Quasar 등
+
+<br />
+
+## **🛠 기술 및 도구**
+
+![Vue.js](https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Quasar](https://img.shields.io/badge/quasar-050A14?style=flat-square&logo=quasar&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+<br />
+
+## **🔗 링크**
+
+**링크:** - (카카오브레인 관리자 페이지)
+
+<br />
+
+## **👨🏻‍💻 구현 이미지**
+
+<br/>
+<br/>
+
+## **📝 6. 포트폴리오 개요**
+
+<img width="100%" alt="메인 페이지" src="https://user-images.githubusercontent.com/51189962/136147406-e80d9f8a-49b9-42bc-aa3a-301fff182608.png" />
+
+> **프로젝트:** 롯데렌탈 사내 관리자페이지 구축 및 유지보수 [반응형]
+>
+> **담당업무 : 웹 퍼블리싱
+>
+> **작업인원 : 1명
+>
+> **기여도 : 100% (퍼블리싱)
+>
+> **제작 기간:** 2023.05.01 ~ 2023.06.30
+>
+> **사용 기술:**  HTML, Scss, Javascript, JQuery 등
+
+<br />
+
+## **🛠 기술 및 도구**
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
+
+<br />
+
+## **🔗 링크**
+
+**링크:** - (롯데렌탈 사내 관리자페이지)
+
+<br />
+
+## **👨🏻‍💻 구현 이미지**
+
+<br/>
+<br/>
