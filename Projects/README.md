@@ -15,7 +15,7 @@
 
 <img width="100%" alt="메인 페이지" src="https://user-images.githubusercontent.com/51189962/136147406-e80d9f8a-49b9-42bc-aa3a-301fff182608.png" />
 
-> **프로젝트:** 아리랑 국제방송 홈페이지 / CMS / 관리자 페이지 구축
+> **프로젝트:** 아리랑 국제방송 홈페이지 / CMS / 관리자 페이지 구축 [반응형]
 >
 > **담당업무 : 웹 퍼블리싱 및 디자인
 >
@@ -54,7 +54,7 @@
 
 <img width="100%" alt="메인 페이지" src="https://user-images.githubusercontent.com/51189962/136147406-e80d9f8a-49b9-42bc-aa3a-301fff182608.png" />
 
-> **프로젝트:** 신도림 게임즈 사전예약 페이지 신규 구축
+> **프로젝트:** 신도림 게임즈 사전예약 페이지 신규 구축 [반응형]
 >
 > **담당업무 : 웹 퍼블리싱 및 디자인
 >
@@ -92,7 +92,7 @@
 
 <img width="100%" alt="메인 페이지" src="https://user-images.githubusercontent.com/51189962/136147406-e80d9f8a-49b9-42bc-aa3a-301fff182608.png" />
 
-> **프로젝트:** 라운드 페스티벌 (roundfestival)
+> **프로젝트:** 라운드 페스티벌 (roundfestival) [USB용/ PC 적응형]
 >
 > **담당업무 : 웹 퍼블리싱
 >
@@ -132,7 +132,7 @@
 
 <img width="100%" alt="메인 페이지" src="https://user-images.githubusercontent.com/51189962/136147406-e80d9f8a-49b9-42bc-aa3a-301fff182608.png" />
 
-> **프로젝트:** 앨리스타로 (alicetarot)
+> **프로젝트:** 앨리스타로 (alicetarot) [모바일]
 >
 > **담당업무 : 웹 퍼블리싱
 >
