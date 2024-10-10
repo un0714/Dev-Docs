@@ -240,3 +240,68 @@
 
 <br/>
 <br/>
+
+## **📝 7. 포트폴리오 개요**
+
+![롯데렌탈로고](https://github.com/un0714/Dev-Docs/assets/92352249/f8b6821a-a98b-4a7d-b99d-f69538a40f1d)
+
+> **프로젝트:** 스타벅스 CDP 챌린지 [모바일 웹]
+>
+> **담당업무:** 웹 퍼블리싱
+>
+> **작업인원:** 2명
+>
+> **기여도:** 50% (퍼블리싱)
+>
+> **제작 기간:** 2024.04.17 ~ 2024.06.14
+>
+> **사용 기술:**  HTML, CSS, Javascript, JQuery 등
+
+<br />
+
+## **🛠 기술 및 도구**
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
+
+<br />
+
+## **🔗 링크**
+
+**링크:** - (스타벅스 앱 챌린지)
+
+<br/>
+<br/>
+## **📝 8. 포트폴리오 개요**
+
+![롯데렌탈로고](https://github.com/un0714/Dev-Docs/assets/92352249/f8b6821a-a98b-4a7d-b99d-f69538a40f1d)
+
+> **프로젝트:** 에스원 SVMS [웹페이지]
+>
+> **담당업무:** 프론트엔드
+>
+> **작업인원:** 2명
+>
+> **기여도:** 50% 
+>
+> **제작 기간:** 2024.08.12 ~ 2024.10.07
+>
+> **사용 기술:**  CSS, Javascript 등
+
+<br />
+
+## **🛠 기술 및 도구**
+
+![CSS](https://img.shields.io/badge/CSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<br />
+
+## **🔗 링크**
+
+**링크:** - (군용 cctv 라벨링 학습툴)
+
+<br/>
+<br/>
